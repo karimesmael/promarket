@@ -19,7 +19,7 @@ const app = express();
 
 app.use(
   cors({
-    origin: "https://promarket-0nkv.onrender.com",
+    origin: "*",
     credentials: true,
   })
 );
