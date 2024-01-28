@@ -1,7 +1,7 @@
 {
   "name": "promarket",
   "version": "1.0.0",
-  "description": "MERN stack eCommerce application ",
+  "description": "eCommerce application (MERN stack) ",
   "type": "module",
   "main": "server.js",
   "scripts": {
